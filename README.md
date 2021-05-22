@@ -1,4 +1,6 @@
-# bsidesath2021
+# BSidesAth2021
+
+The following references have been used to support the Lightning Talk deliverd at BSides Athens 2021 event.
 
 ### ENISA Publications
 
