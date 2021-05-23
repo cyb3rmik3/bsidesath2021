@@ -15,6 +15,10 @@ The following references have been used to support the Lightning Talk deliverd a
 
 ### Commercial Cybersecurity Culture Frameworks
 - [KasperskyLab Cybersafety Culture Assessment](https://media.kaspersky.com/en/business-security/enterprise/KL_CyberSafety%20Culture%20Assessment_overview.pdf)
+- [CLTRe Security Culture Framework](https://get.clt.re/)
+- [CybSafe’s Culture Assessment Tool](https://www.cybsafe.com/whitepapers/cybsafe-culture-assessment-tool-whitepaper/)
+- [CultureAI](https://www.culture.ai/)
+- [Security Awareness Radar by TreeSolution ](https://www.treesolution.com/news-tags/security-awareness-radar)
 
 ### Articles
 - [IBM X-Force Threat Intelligence Index 2021 - Key Insights](https://www.securityhq.com/reports/ibm-x-force-threat-intelligence-index-2021/)
