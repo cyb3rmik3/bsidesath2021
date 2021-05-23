@@ -9,9 +9,13 @@ The following references have been used to support the Lightning Talk deliverd a
 
 ### Academic Cybersecurity Culture Frameworks
 
-- [The contribution of fostering a cyber security culture in organizations’ cyber resilience](https://apothesis.eap.gr/bitstream/repo/50704/1/Dissertation-134329-Michail%20Michalos.pdf)
+- [The contribution of fostering a cyber security culture in organizations’ cyber resilience - Introduction of Schein's "Enhanced" Framework](https://apothesis.eap.gr/bitstream/repo/50704/1/Dissertation-134329-Michail%20Michalos.pdf)
 - [A Cyber-Security Culture Framework for Assessing Organization Readiness](https://www.tandfonline.com/doi/full/10.1080/08874417.2020.1845583)
-- [Cyber Security Culture in organisations](https://www.enisa.europa.eu/publications/cyber-security-culture-in-organisations)
+- [Da Veiga’s Information Security Culture Framework](https://www.sciencedirect.com/science/article/pii/S0167404809000923)
+- [Organizational Cybersecurity Culture Model](http://web.mit.edu/smadnick/www/wp/2020-05.pdf)
+- [AlHogail’s information security culture framework](https://www.sciencedirect.com/science/article/abs/pii/S0747563215002447)
+- [Tolah et al. comprehensive information security culture framework](https://ro.ecu.edu.au/ecuworkspost2013/6513/)
+- [Nel and Drevin’s identification of key elements for ISC](https://repository.nwu.ac.za/handle/10394/33425)
 
 ### Commercial Cybersecurity Culture Frameworks
 - [KasperskyLab Cybersafety Culture Assessment](https://media.kaspersky.com/en/business-security/enterprise/KL_CyberSafety%20Culture%20Assessment_overview.pdf)
