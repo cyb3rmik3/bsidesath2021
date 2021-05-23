@@ -28,6 +28,7 @@ The following references have been used to support the Lightning Talk deliverd a
 - [IBM X-Force Threat Intelligence Index 2021 - Key Insights](https://www.securityhq.com/reports/ibm-x-force-threat-intelligence-index-2021/)
 - [The role of human error in cybersecurity: what the stats tell us](https://www.comparitech.com/blog/information-security/human-error-cybersecurity-stats/)
 - [The Human Factor Report](https://www.proofpoint.com/us/resources/threat-reports/human-factor)
+- [New CISOs should focus more on people and less on tech, report finds](https://www.scmagazine.com/home/security-news/new-cisos-should-focus-more-people-and-less-on-tech-report-finds/)
 
 ### Maturity Model
 - [Capability maturity model (CMM) of security culture](https://www.treesolution.com/news-english/cyber-security-culture)
