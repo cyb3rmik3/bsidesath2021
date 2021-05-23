@@ -2,8 +2,7 @@
 
 The following references have been used to support the Lightning Talk deliverd at BSides Athens 2021 event.
 
-> Cybersecurity culture refers to the knowledge, beliefs, perceptions, attitudes, assumptions, norms and values of people regarding cybersecurity and how they manifest in people’s behaviour with information technologies
-> ENISA, Cyber Security Culture in Organisations, 2017
+> Cybersecurity culture refers to the knowledge, beliefs, perceptions, attitudes, assumptions, norms and values of people regarding cybersecurity and how they manifest in people’s behaviour with information technologies. (ENISA, Cyber Security Culture in Organisations, 2017)
 
 ### ENISA Publications
 
@@ -36,5 +35,4 @@ The following references have been used to support the Lightning Talk deliverd a
 ### Maturity Model
 - [Capability maturity model (CMM) of security culture](https://www.treesolution.com/news-english/cyber-security-culture)
 
-> "A journey of a thousand miles begins with a single step"
-> Lao Tzu
+> "A journey of a thousand miles begins with a single step" (Lao Tzu)
