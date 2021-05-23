@@ -15,9 +15,11 @@ The following references have been used to support the Lightning Talk deliverd a
 
 ### Commercial Cybersecurity Culture Frameworks
 - [KasperskyLab Cybersafety Culture Assessment](https://media.kaspersky.com/en/business-security/enterprise/KL_CyberSafety%20Culture%20Assessment_overview.pdf)
-- [Capability maturity model (CMM) of security culture](https://www.treesolution.com/news-english/cyber-security-culture)
 
 ### Articles
 - [IBM X-Force Threat Intelligence Index 2021 - Key Insights](https://www.securityhq.com/reports/ibm-x-force-threat-intelligence-index-2021/)
 - [The role of human error in cybersecurity: what the stats tell us](https://www.comparitech.com/blog/information-security/human-error-cybersecurity-stats/)
 - [The Human Factor Report](https://www.proofpoint.com/us/resources/threat-reports/human-factor)
+
+### Maturity Model
+- [Capability maturity model (CMM) of security culture](https://www.treesolution.com/news-english/cyber-security-culture)
