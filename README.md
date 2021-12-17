@@ -11,7 +11,7 @@ The following references have been used to support the Lightning Talk deliverd a
 
 ### Academic Cybersecurity Culture Frameworks
 
-- [The contribution of fostering a cyber security culture in organizations’ cyber resilience - Introduction of Schein's "Enhanced" Framework](https://apothesis.eap.gr/bitstream/repo/50704/1/Dissertation-134329-Michail%20Michalos.pdf)
+- [The contribution of fostering a cyber security culture in organizations’ cyber resilience - Introduction of Schein's "Enhanced" Framework](https://apothesis.eap.gr/handle/repo/50704)
 - [A Cyber-Security Culture Framework for Assessing Organization Readiness](https://www.tandfonline.com/doi/full/10.1080/08874417.2020.1845583)
 - [Da Veiga’s Information Security Culture Framework](https://www.sciencedirect.com/science/article/pii/S0167404809000923)
 - [Organizational Cybersecurity Culture Model](http://web.mit.edu/smadnick/www/wp/2020-05.pdf)
