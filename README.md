@@ -1,6 +1,6 @@
 # BSidesAth2021
 
-The following references have been used to support the Lightning Talk deliverd at BSides Athens 2021 event.
+The following references have been used to support the Lightning Talk deliverd at BSides Athens 2021 event. You may watch it [here](https://www.youtube.com/watch?v=rnCW2OaJBxc).
 
 > Cybersecurity culture refers to the knowledge, beliefs, perceptions, attitudes, assumptions, norms and values of people regarding cybersecurity and how they manifest in people’s behaviour with information technologies. (ENISA, Cyber Security Culture in Organisations, 2017)
 
